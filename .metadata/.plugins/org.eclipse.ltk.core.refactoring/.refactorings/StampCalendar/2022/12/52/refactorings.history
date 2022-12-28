@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="2 個の要素を &apos;Stamp1/src/main/resources&apos; に移動&#x0D;&#x0A;- 元のプロジェクト: &apos;spring-boot-tutorial-step6-master&apos;&#x0D;&#x0A;- 宛先要素: &apos;Stamp1/src/main/resources&apos;&#x0D;&#x0A;- オリジナル要素:&#x0D;&#x0A;     data.sql&#x0D;&#x0A;     schema.sql&#x0D;&#x0A;- リファクタリングされた要素の参照を更新" description="ファイルを移動" destination="=Stamp1/src\/main\/resources=/maven.pomderived=/true=/" element1="src/main/resources/data.sql" element2="src/main/resources/schema.sql" files="2" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1671512739862" units="0" version="1.0"/>
+</session>
